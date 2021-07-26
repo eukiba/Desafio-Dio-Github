@@ -1,0 +1,25 @@
+### Comandos básicos 
+
+- dir              Exibe a lista de diretórios 
+- cd               Exibe a base de diretórios
+-  cd/             Avança um nível
+- cd..             Retorna para base do diretório
+- Ctrl + L       No Windows  limpa o terminal (clear screen)
+- TAB             Auto complete
+- mkdir         Cria uma nova pasta
+- echo           Printa de volta no terminal
+- ">"              Redireciona o fluxo para o terminal 
+- del              Deleta  Somente arquivos  e não o repositório
+- rmdir         Deleta o repositório Ex: ( rmdir workspace / s  /q ) 
+- git init        Inicia o git na pasta
+- git add      Adiciona e move arquivos 
+- git commit     Cria um commit
+- git commit - m adiciona uma mensagem ao commit
+- git status   Mostra o status do arquivo
+- ls-a            Exibe arquivos ocultos 
+- mv             Move arquivos 
+- git remote add origin https://github.com/ Adiciona um repositório remoto ao GitHub
+- git push origin master Sobe o conteúdo para o GitHub
+- git remote - v     Exibe a lista de repositórios cadastrados 
+- git pull origin master  Baixa o conteúdo do GitHub
+- git clone  https://github.com/ Clona um repositório
