@@ -1,5 +1,5 @@
-# Repositório do desafio de projeto sobre Git/GitHub da  Digital inovation
-Desafio de projeto sobre  Git/GitHub
+# Desafio de Projeto sobre Git/GitHub
+Repositório criado para o Desafio  de Projeto.
 
 ## Links Úteis
 [Sintaxe Basica Markdow](https://www.markdownguide.org/basic-syntax/)
