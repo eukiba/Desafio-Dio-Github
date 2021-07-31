@@ -6,3 +6,6 @@ Olá ! Bem vindo ao meu livro de receitas :wave:
 
 - Pavê
 
+OBS: Este foi o meu primeiro contato que tive com GitHub
+
+onde pude aprender mais sobre a tecnologia de versionamento de dados e a plataforma GitHub
