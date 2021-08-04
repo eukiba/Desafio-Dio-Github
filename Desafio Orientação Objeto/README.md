@@ -2,7 +2,7 @@
 
 Aqui vemos um exercício mais elaborado em Java sobre Orientação Objeto_dio 
 
-onde tratamos os principais tópicos sobre Orientação Objeto
+onde tratamos os principais termos sobre Orientação Objeto
 
 - Classe e Objeto
 
